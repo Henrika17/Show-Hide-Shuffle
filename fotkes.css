@@ -1,0 +1,59 @@
+body {
+    background-image: linear-gradient(to right, #8e9efd , #426cf7, #412df7);
+}
+
+.row {
+    margin: 15%;
+}
+
+.mygtukas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 0.5%;
+    background-color: #66a3ff;
+    font-family: 'Lobster', cursive;
+    font-size: 5vh;
+    border-radius: 5px;
+    border: none;
+
+}
+
+.mygtukas:hover {
+    background-color: seashell;
+    color: black;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 1%;
+    background-color: #66a3ff;
+    font-family: 'Lobster', cursive;
+    font-size: 5vh;
+    border-radius: 5px;
+    border: none;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+img {
+    height: 30%;
+    width: 35%;
+    margin: 7%;
+}
+
+.btn1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 2%;
+    background-color: #66a3ff;
